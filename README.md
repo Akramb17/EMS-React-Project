@@ -18,7 +18,7 @@ Use the following credentials to explore the application:
 
 ### Employee
 
-- **Email:** `employee1@example.com`
+- **Email:** `employee2@example.com`
 - **Password:** `123`
 
 > These are demo credentials intended for testing the deployed application.
