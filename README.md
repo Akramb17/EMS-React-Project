@@ -7,6 +7,22 @@ A modern **Employee Management System** built with React, designed to provide se
 
 ---
 
+## 🔑 Demo Credentials
+
+Use the following credentials to explore the application:
+
+### Admin
+
+- **Email:** `admin@example.com`
+- **Password:** `123`
+
+### Employee
+
+- **Email:** `employee1@example.com`
+- **Password:** `123`
+
+> These are demo credentials intended for testing the deployed application.
+
 ## ✨ Features
 
 ### 🔐 Sign-In
